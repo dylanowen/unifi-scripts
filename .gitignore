@@ -3,3 +3,4 @@
 *.pem
 *.key
 *.p12
+defaults.sh
