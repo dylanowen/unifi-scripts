@@ -82,7 +82,7 @@ if [ true ]; then
 
    # Output the scp command
    echo
-   echo "scp ${LOCAL_P12} pi@unifi.local:~/certs"
+   echo "scp ${LOCAL_P12} pi@unifi.local:~/certs/"
 
    # Output the command to import our keystore
    echo
